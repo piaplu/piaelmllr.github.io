@@ -106,6 +106,25 @@ h3 {
 .breadcrumb a:hover {
  color: red;
 }
+/* nav elements */
+ nav {
+    margin: 40px auto;
+    padding: 20px 30px 40px 30px;
+    background-color: #FFFFFF;
+    overflow: auto;
+    width: 75%;
+    border-radius: 4px;
+    align-self: center;
+  }
+  
+  nav p {
+    color: #938E89;
+    text-align: center;
+    line-height: 24px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+  }
  /* Page elements */
   ul {
     margin: 0 auto;
