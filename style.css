@@ -9,10 +9,13 @@ body{
   background: linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
 }
 .header{
-  background-image: url(https://www.dkv-mobility.com/assets/images/presse/210706_pm_dkv_smart-diesel_xl.jpg);
+  background-image: url(https://www.publicdomainpictures.net/pictures/130000/nahled/multi-color-pastel-background.jpg);
+  height: 400px;
+  background-position: center center;
 }
 h3{
   color: pink;
+  font-family: 'Covered By Your Grace', sans-serif;
 }
 h1 {
     color: #41292C;
