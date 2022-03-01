@@ -27,3 +27,19 @@ h1 {
     text-align: center;
     top: 20%;
   }
+.breadcrumb > li {
+  display: inline;
+}
+
+.breadcrumb li+li::before {
+	padding: 10px;
+  content: ">";
+}
+
+.breadcrumb a {
+ text-decoration: none;
+}
+
+.breadcrumb a:hover {
+ color: red;
+}
