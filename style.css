@@ -13,15 +13,12 @@ font-family: 'Raleway', sans-serif;
   height: 200px;
   background-position: center center;
 }
-h2{
-	display: block;
-	font-family: 'Covered By Your Grace', sans-serif;
-}
+
 h3{
   color: brown;
   
 }
-h1 {
+h1, h2 {
     color: #41292C;
     font-family: 'Covered By Your Grace', sans-serif;
     font-size: 100px;
