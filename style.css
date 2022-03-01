@@ -1,3 +1,16 @@
+body{
+  padding: 0;
+  margin: 0;
+  background: #F7F7F7;
+  background: -moz-linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
+    /* FF3.6-15 */
+  background: -webkit-linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
+    /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
+}
+.header{
+  background-image: url(https://www.dkv-mobility.com/assets/images/presse/210706_pm_dkv_smart-diesel_xl.jpg);
+}
 h3{
   color: pink;
 }
