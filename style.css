@@ -13,9 +13,13 @@ body{
   height: 400px;
   background-position: center center;
 }
+h2{
+	display: block;
+	font-family: 'Covered By Your Grace', sans-serif;
+}
 h3{
-  color: pink;
-  font-family: 'Covered By Your Grace', sans-serif;
+  color: brown;
+  
 }
 h1 {
     color: #41292C;
